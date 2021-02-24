@@ -1,0 +1,10 @@
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\bin\Debug\DZ2.exe.config
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\bin\Debug\DZ2.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\bin\Debug\DZ2.pdb
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\obj\Debug\DZ2.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\obj\Debug\DZ2.Form1.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\obj\Debug\DZ2.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\obj\Debug\DZ2.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\obj\Debug\DZ2.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\obj\Debug\DZ2.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\28\DZ2\DZ2\obj\Debug\DZ2.pdb
