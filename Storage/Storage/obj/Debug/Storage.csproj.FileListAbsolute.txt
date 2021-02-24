@@ -1,0 +1,10 @@
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\obj\Debug\Storage.Form1.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\obj\Debug\Storage.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\obj\Debug\Storage.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\bin\Debug\Storage.exe.config
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\bin\Debug\Storage.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\bin\Debug\Storage.pdb
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\obj\Debug\Storage.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\12\Storage\Storage\obj\Debug\Storage.pdb
