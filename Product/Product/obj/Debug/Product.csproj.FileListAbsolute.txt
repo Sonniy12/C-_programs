@@ -1,0 +1,20 @@
+C:\AКАДЕМИЯ шаг\Product\Product\bin\Debug\Product.exe.config
+C:\AКАДЕМИЯ шаг\Product\Product\bin\Debug\Product.exe
+C:\AКАДЕМИЯ шаг\Product\Product\bin\Debug\Product.pdb
+C:\AКАДЕМИЯ шаг\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\Product\Product\obj\Debug\Product.Form1.resources
+C:\AКАДЕМИЯ шаг\Product\Product\obj\Debug\Product.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\Product\Product\obj\Debug\Product.exe
+C:\AКАДЕМИЯ шаг\Product\Product\obj\Debug\Product.pdb
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\bin\Debug\Product.exe.config
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\bin\Debug\Product.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\bin\Debug\Product.pdb
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\obj\Debug\Product.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\obj\Debug\Product.Form1.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\obj\Debug\Product.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\obj\Debug\Product.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\obj\Debug\Product.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\13\Product\Product\obj\Debug\Product.pdb
