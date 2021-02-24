@@ -1,0 +1,10 @@
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\bin\Debug\Boots.exe.config
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\bin\Debug\Boots.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\bin\Debug\Boots.pdb
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\obj\Debug\Boots.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\obj\Debug\Boots.Form1.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\obj\Debug\Boots.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\obj\Debug\Boots.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\obj\Debug\Boots.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\obj\Debug\Boots.exe
+C:\AКАДЕМИЯ шаг\D_Домашняя работа\1_C#_SQL\14\Boots\Boots\obj\Debug\Boots.pdb
