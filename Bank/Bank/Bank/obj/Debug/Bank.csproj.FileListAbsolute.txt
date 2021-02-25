@@ -1,0 +1,24 @@
+C:\Users\telno\source\repos\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\telno\source\repos\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\telno\source\repos\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.Add.resources
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.Rename.resources
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\telno\source\repos\Bank\Bank\obj\Debug\Bank.pdb
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\bin\Debug\Bank.exe.config
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\bin\Debug\Bank.exe
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\bin\Debug\Bank.pdb
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.Add.resources
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.Form1.resources
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.Rename.resources
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.exe
+C:\AКАДЕМИЯ шаг\A_Задачи в классе_И_прочее_ДЛя_Контрольной_С#__2020\Контр\Bank\Bank\Bank\obj\Debug\Bank.pdb
